@@ -1,0 +1,3 @@
+# Create a ship with primary full, secondary 0 never fail, SINGLE
+GT4500,10,0,0,0
+TORPEDO,SINGLE

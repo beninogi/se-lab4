@@ -1,0 +1,3 @@
+# Create a ship with a stocked primary, empty secondary, never fail, ALL
+GT4500,10,0,0,0
+TORPEDO,ALL
